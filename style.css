@@ -5,12 +5,12 @@
     font-family: sans-serif;
     margin-bottom: 30px;
     margin-top: 10px;
-    box-shadow: 10px 10px 30px rgb(228, 126, 126);
+    box-shadow: 10px 10px 20px rgb(83, 83, 83);
     
 
 }
 body{
-    background-color: rgb(211, 223, 255);
+    background-color: rgb(255, 255, 255);
 }
 span{
     color: rgb(159, 159, 255);
